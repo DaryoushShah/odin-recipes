@@ -35,3 +35,15 @@
 .content {
   margin-top: 50px;
 }
+
+.showcase {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.showcase img {
+  width: 400px;
+  height: auto;
+
+  border-radius: 20px;
+}
