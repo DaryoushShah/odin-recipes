@@ -2,3 +2,20 @@
   padding: 0;
   margin: 0;
 }
+
+.navbar {
+  display: flex;
+  justify-content: center;
+
+  padding: 1rem;
+
+  background-color: #54BAB9;
+}
+
+.navbar .title {
+  text-decoration: none;
+
+  color: #FFFFFF;
+
+  font-size: 48px;
+}
